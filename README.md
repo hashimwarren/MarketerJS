@@ -41,6 +41,16 @@
 
 4. Google Chrome - [Create an Extension](https://developer.chrome.com/extensions/getstarted) 
 
+5. Zapier Code - [connect any API](https://zapier.com/help/code/)
+
+## Javascript Projects for Marketers
+
+1. [Analytics.JS](https://github.com/segmentio/analytics.js) - web traffic analytics
+
+2. [SourceBuster.JS](http://sbjs.rocks) - web traffic source collection
+
+3. [Parsley](http://parsleyjs.org/) - form validation
+
 
 
 

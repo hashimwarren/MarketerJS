@@ -30,6 +30,14 @@
 
 3. [Practical Javascript](https://watchandcode.com/p/practical-javascript) by Gordon Zhu
 
+## Learning Communities
+
+1. [freeCodeCamp Forum] (https://forum.freecodecamp.org/)
+
+2. [CodeNewbie Chat] (https://www.codenewbie.org/chat)
+
+3. ["100 Days 0f Code" Challenge] (http://www.100daysofcode.com/)
+
 
 ## Extend and Automate Tools with JavaScript
 

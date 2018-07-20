@@ -1,8 +1,10 @@
-##Why Should Marketers Learn JavaScript?
+## Why Should Marketers Learn JavaScript?
 
 1. Solve small marketing problems without involving the dev team
+
 2. Collaborate faster with the dev team on larger projects
-3. Extend and automate tools such as Excel, Google Sheets, Photoshop, and Zapier
+
+3. Extend and automate tools (such as Excel, Google Sheets, Photoshop, and Zapier)
 
 
 ## Free Javascript Tutorials

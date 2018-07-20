@@ -30,7 +30,16 @@
 
 3. [Practical Javascript](https://watchandcode.com/p/practical-javascript) by Gordon Zhu
 
- 
+
+## Extend and Automate Tools with JavaScript
+
+1. Excel - [Create Custom Functions](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/custom-functions-overview)
+
+2. Google Apps - [create scripts for Google Sheets, Docs, Gmail, Adwords, and more](https://developers.google.com/apps-script/)
+
+3. Photoshop - [automate your workflow](https://www.smashingmagazine.com/2013/07/introduction-to-photoshop-scripting/)
+
+4. Google Chrome - [Create an Extension](https://developer.chrome.com/extensions/getstarted) 
 
 
 

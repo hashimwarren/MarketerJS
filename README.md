@@ -23,10 +23,10 @@
 1. [Learn.co's Intro to Javascript](https://learn.co/courses/introduction-to-javascript)
 
 2. Udacity
-⋅⋅*a. [Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
-⋅⋅*b. [Javascript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
-⋅⋅*c. [Object Oriented Javascript](https://www.udacity.com/course/object-oriented-javascript--ud015)
-⋅⋅*c. [Intro to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+*  a. [Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+*  b. [Javascript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+*  c. [Object Oriented Javascript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+*  d. [Intro to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 
 3. [Practical Javascript](https://watchandcode.com/p/practical-javascript) by Gordon Zhu
 

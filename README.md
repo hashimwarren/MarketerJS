@@ -1,4 +1,4 @@
-## Why Should Marketers Learn JavaScript?
+## Why Should Marketers Learn Javascript?
 
 1. Solve small marketing problems without involving the dev team
 
@@ -16,5 +16,22 @@
 3. [Sololearn](https://www.sololearn.com/Course/JavaScript/)
 
 4. [Javascript in 30 Minutes](https://youtu.be/zPHerhks2Vg)
+
+
+## Free Project-Based Javascript Courses
+
+1. [Learn.co's Intro to Javascript](https://learn.co/courses/introduction-to-javascript)
+
+2. Udacity
+⋅⋅*a. [Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+⋅⋅*b. [Javascript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+⋅⋅*c. [Object Oriented Javascript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+⋅⋅*c. [Intro to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+
+3. [Practical Javascript](https://watchandcode.com/p/practical-javascript) by Gordon Zhu
+
+ 
+
+
 
 
